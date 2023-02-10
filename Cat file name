@@ -1,0 +1,6 @@
+──(kali㉿kali)-[~]
+└─$ echo "welcome to javaTpoint">file.text
+                                                                                                                                                                                                                  
+┌──(kali㉿kali)-[~]
+└─$ cat file.text
+welcome to javaTpoint
